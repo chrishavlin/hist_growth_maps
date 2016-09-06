@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# non-pythonic ignores
+.mp4
+.csv

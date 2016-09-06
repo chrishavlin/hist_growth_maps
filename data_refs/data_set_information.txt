@@ -1,0 +1,10 @@
+data: 
+
+  Reba, Meredith, Femke Reitsma, and Karen C. Seto. "Spatializing 6,000 
+        years of global urbanization from 3700 BC to AD 2000." 
+        Scientific data 3 (2016).
+
+data set and associated plubication available here: 
+
+  http://urban.yale.edu/data "Historical Urban Population Growth Data"   
+
